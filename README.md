@@ -9,4 +9,6 @@
 
 ![](https://komarev.com/ghpvc/?username=nitinkc)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nitinkc&theme=github)
+
 <img src="https://activity-graph.herokuapp.com/graph?username=nitinkc&theme=github" alt="GitHub Activity Graph" width="100%" />
