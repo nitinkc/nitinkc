@@ -12,3 +12,6 @@
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nitinkc&theme=github) -->
 
 <!-- <img 1src="https://activity-graph.herokuapp.com/graph?username=nitinkc&theme=github" alt="GitHub Activity Graph" width="100%" /> -->
+
+![trophy](https://github-profile-trophy.vercel.app/?username=nitinkc)
+
