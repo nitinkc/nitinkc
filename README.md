@@ -16,8 +16,9 @@
 
 <!-- <img 1src="https://activity-graph.herokuapp.com/graph?username=nitinkc&theme=github" alt="GitHub Activity Graph" width="100%" /> -->
 
+Languages and Tools
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,jenkins,rabbitmq,kafka,gcp,docker,kubernetes,gradle,maven,grafana,mysql,postman,idea,git,github,githubactions,angular,ts,nodejs,c,bash,python,linux,redis,nginx,postgres,arduino,bash,css,html,js,sqlite" />
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=nitinkc)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=nitinkc) -->
 
