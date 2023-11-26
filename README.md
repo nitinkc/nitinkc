@@ -2,7 +2,7 @@
 
 # Github Stats 📈
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=nitinkc&show_icons=true) 
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=nitinkc&show_icons=true&theme=radical) 
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkc&layout=compact&hide=Jupyter%20Notebook,HTML) -->
 
