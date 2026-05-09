@@ -1,4 +1,4 @@
-# [LinkedIn Profile](https://www.linkedin.com/in/nitinchaurasia)
+# [LinkedIn](https://www.linkedin.com/in/nitinchaurasia)
 
 # Github Stats 📈
 
